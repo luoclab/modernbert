@@ -1,1 +1,3 @@
-modernbert for clssify
+# 用modernbert进行文本分类
+
+这个repository是想要提供一个用于文本分类的modernbert模型，但是还有待完善
